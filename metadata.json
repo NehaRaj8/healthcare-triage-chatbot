@@ -1,0 +1,5 @@
+{
+  "name": "Healthcare Triage Chatbot",
+  "description": "A friendly chatbot to verify patient identity, collect symptoms, assess severity, and produce a structured summary.",
+  "requestFramePermissions": []
+}
